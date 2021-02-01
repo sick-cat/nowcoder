@@ -5,7 +5,7 @@ import java.util.Queue;
  * @author JiaYanZhao
  * @date 2021/2/1 9:18
  * <p>
- * 二叉树的深度
+ * 二叉树的深度（树）
  * <p>
  * 题目描述
  * 输入一棵二叉树，求该树的深度。

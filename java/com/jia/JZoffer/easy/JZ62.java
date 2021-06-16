@@ -1,3 +1,5 @@
+package jia.JZoffer.easy;
+
 import java.util.List;
 import java.util.Stack;
 

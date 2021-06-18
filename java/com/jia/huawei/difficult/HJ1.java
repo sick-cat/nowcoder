@@ -4,6 +4,7 @@ import java.util.Scanner;
 /**
  * @author JiaYanZhao
  * @date 2021/6/16 17:21
+ * 字符串最后一个单词的长度
  */
 public class HJ1 {
     public static void main(String[] args){

@@ -1,10 +1,12 @@
-package com.jia.huawei.difficult;
+package com.jia.huawei.medium;
 
 import java.util.Scanner;
 import java.lang.Integer;
 /**
  * @author JiaYanZhao
  * @date 2021/6/16 17:18
+ * 进制转换
+ * 写出一个程序，接受一个十六进制的数，输出该数值的十进制表示。
  */
 public class HJ5 {
     public static void main(String[] args) {
